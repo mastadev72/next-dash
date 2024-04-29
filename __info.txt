@@ -1,0 +1,4 @@
+/* <html> = the root */
+html {
+  font-size: 62.5%; /* (62.5/100) * 16px = 10px */
+}
